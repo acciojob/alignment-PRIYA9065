@@ -5,8 +5,23 @@ table{
 	width: 90vw;
 	border-collapse: collapse;
 	margin: 20px;
+	height: 60px
 }
 
 td,tr{
 	border: 1px solid black;
 }
+
+.green{
+	background-color: green;
+}
+
+.red{
+	background-color: red;
+}
+
+td{
+	padding: 1px
+}
+
+
